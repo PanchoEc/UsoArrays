@@ -1,0 +1,12 @@
+C:\Users\Patricio\Desktop\ITI_Tecnológico Internacional Universitario\2. Segundo Semestre\MODULO 2\Proyectos POO\Use_of_Arrays\Array.Logic\bin\Debug\net8.0\Array.Logic.deps.json
+C:\Users\Patricio\Desktop\ITI_Tecnológico Internacional Universitario\2. Segundo Semestre\MODULO 2\Proyectos POO\Use_of_Arrays\Array.Logic\bin\Debug\net8.0\Array.Logic.dll
+C:\Users\Patricio\Desktop\ITI_Tecnológico Internacional Universitario\2. Segundo Semestre\MODULO 2\Proyectos POO\Use_of_Arrays\Array.Logic\bin\Debug\net8.0\Array.Logic.pdb
+C:\Users\Patricio\Desktop\ITI_Tecnológico Internacional Universitario\2. Segundo Semestre\MODULO 2\Proyectos POO\Use_of_Arrays\Array.Logic\obj\Debug\net8.0\Array.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patricio\Desktop\ITI_Tecnológico Internacional Universitario\2. Segundo Semestre\MODULO 2\Proyectos POO\Use_of_Arrays\Array.Logic\obj\Debug\net8.0\Array.Logic.AssemblyInfoInputs.cache
+C:\Users\Patricio\Desktop\ITI_Tecnológico Internacional Universitario\2. Segundo Semestre\MODULO 2\Proyectos POO\Use_of_Arrays\Array.Logic\obj\Debug\net8.0\Array.Logic.AssemblyInfo.cs
+C:\Users\Patricio\Desktop\ITI_Tecnológico Internacional Universitario\2. Segundo Semestre\MODULO 2\Proyectos POO\Use_of_Arrays\Array.Logic\obj\Debug\net8.0\Array.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Patricio\Desktop\ITI_Tecnológico Internacional Universitario\2. Segundo Semestre\MODULO 2\Proyectos POO\Use_of_Arrays\Array.Logic\obj\Debug\net8.0\Array.Logic.sourcelink.json
+C:\Users\Patricio\Desktop\ITI_Tecnológico Internacional Universitario\2. Segundo Semestre\MODULO 2\Proyectos POO\Use_of_Arrays\Array.Logic\obj\Debug\net8.0\Array.Logic.dll
+C:\Users\Patricio\Desktop\ITI_Tecnológico Internacional Universitario\2. Segundo Semestre\MODULO 2\Proyectos POO\Use_of_Arrays\Array.Logic\obj\Debug\net8.0\refint\Array.Logic.dll
+C:\Users\Patricio\Desktop\ITI_Tecnológico Internacional Universitario\2. Segundo Semestre\MODULO 2\Proyectos POO\Use_of_Arrays\Array.Logic\obj\Debug\net8.0\Array.Logic.pdb
+C:\Users\Patricio\Desktop\ITI_Tecnológico Internacional Universitario\2. Segundo Semestre\MODULO 2\Proyectos POO\Use_of_Arrays\Array.Logic\obj\Debug\net8.0\ref\Array.Logic.dll

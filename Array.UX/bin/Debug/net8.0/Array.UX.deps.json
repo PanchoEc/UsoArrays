@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Array.UX/1.0.0": {
+        "dependencies": {
+          "Array.Logic": "1.0.0"
+        },
+        "runtime": {
+          "Array.UX.dll": {}
+        }
+      },
+      "Array.Logic/1.0.0": {
+        "runtime": {
+          "Array.Logic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Array.UX/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Array.Logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
